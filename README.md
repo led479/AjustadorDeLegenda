@@ -1,12 +1,19 @@
 # Ajustador De Legenda
 Um simples script de python que adianta ou atrasa as legendas de um arquivo .srt
 
+## Requisitos para executar
+
+* Ter o python instalado
+
 ## Instruções de uso
-O arquivo .srt deve estar na mesma pasta do script
+* O programa pode ser rodado pelo comando: 
+`py ajustador_de_legenda.py`
 
-Deve ser inserido o nome do arquivo .srt (somente o nome do arquivo, sem a extensão .srt)
+* O arquivo .srt deve estar na mesma pasta do script
 
-Deve ser escolhido um tempo para ajustar as legendas
+* Deve ser inserido o nome do arquivo .srt (somente o nome do arquivo, sem a extensão .srt)
+
+* Deve ser escolhido um tempo para ajustar as legendas
 
 
 ## Exemplo de uso do script
