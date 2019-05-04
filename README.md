@@ -11,11 +11,6 @@ Um simples script de python que adianta ou atrasa as legendas de um arquivo .srt
 
 * O arquivo .srt deve estar na mesma pasta do script
 
-* Deve ser inserido o nome do arquivo .srt (somente o nome do arquivo, sem a extensão .srt)
-
-* Deve ser escolhido um tempo para ajustar as legendas
-
-
 ## Exemplo de uso do script
 Ao baixar o filme do Homem de Ferro e suas legendas percebi que elas estavam 1.3 segundos atrasadas
 
